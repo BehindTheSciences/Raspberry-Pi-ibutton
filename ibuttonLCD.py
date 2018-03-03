@@ -1,3 +1,13 @@
+#!/usr/bin/python
+#--------------------------------------
+#  Rasbperry Pi ibutton with LCD Test Script
+#
+# Author : BehindTheSciences
+# Date   : 15/02/2017
+#
+# http://behindthesciences.com
+#
+#--------------------------------------
 import os
 import time
 import RPi.GPIO as GPIO
